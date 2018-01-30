@@ -14,13 +14,13 @@
     <array>
       <dict>
         <key>URL</key>
-        <string>http://issues.apache.org/jira/browse/{popclip text}</string>
+        <string>http://denizoguz.atlassian.net/browse/{popclip text}</string>
         <key>Image File</key>
         <string>jira.png</string>
         <key>Title</key>
         <string>JIRA</string>
         <key>Regular Expression</key>
-        <string>(?i)\b(HADOOP|HDFS|SPARK|MAPREDUCE|HIVE|HBASE|PIG|YARN|AMBARI)-[0-9]+\b</string>
+        <string>(?i)\b(REM|CBSV|WLP|PREV|SIF|CF|RSC|RAINBOW|JNT|SIFC|GSR|ACI|)-[0-9]+\b</string>
       </dict>
     </array>
   </dict>
